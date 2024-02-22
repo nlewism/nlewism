@@ -59,12 +59,6 @@ Let's talk about AI, collaborate on creative projects, or share matcha recipes! 
 <a href="https://www.linkedin.com/in/analyst-natalie/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/Starships777">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
  </p>
  
 <!---
