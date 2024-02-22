@@ -29,7 +29,7 @@
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools 👩🏻‍💻🖱️
 </br>
 
 <p align="center">
@@ -46,7 +46,7 @@
 </p>
 </br>
 
-# Get in touch :
+# Get in touch
 
 <p>
  </br>
