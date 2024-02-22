@@ -9,7 +9,7 @@
 </br>
 
 
-# About Me 💬 :
+# About Me 💬
 
 ### I'm a Machine Learning and Artificial Intelligence Lover from Puerto Rico
 
